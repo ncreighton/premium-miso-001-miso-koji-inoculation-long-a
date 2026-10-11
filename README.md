@@ -1,0 +1,2 @@
+# premium-miso-001-miso-koji-inoculation-long-a
+The heritage-fermentation-crafts tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Miso Koji Inoculation &amp; Long Aging Log — fully configured and ready to use - Pre-built
